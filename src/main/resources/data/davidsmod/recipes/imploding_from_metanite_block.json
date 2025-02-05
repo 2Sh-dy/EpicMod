@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "bbb",
+    "bbb",
+    "bbb"
+  ],
+  "key": {
+    "b": {
+      "item": "davidsmod:metanite_block"
+    }
+  },
+  "result": {
+    "item": "davidsmod:imploding_metanite_block"
+  }
+}

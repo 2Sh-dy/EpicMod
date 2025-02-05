@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "davidsmod:imploding_metanite_block"
+    }
+  ],
+  "result": {
+    "item": "davidsmod:metanite_block",
+    "count": 9
+  }
+}
